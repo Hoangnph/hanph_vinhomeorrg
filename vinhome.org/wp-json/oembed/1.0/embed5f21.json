@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a S4.03 The Sapphire 4 Vinhomes Smart City T\u00e2y M\u1ed7",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"W9QH7uwJNe\"><a href=\"https://vinhome.org/toa-s403-vinhomes-smart-city/\">T\u00f2a S4.03 Vinhomes Smart City</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-s403-vinhomes-smart-city/embed/#?secret=W9QH7uwJNe\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a S4.03 Vinhomes Smart City&#8221; &#8212; HALANDER\" data-secret=\"W9QH7uwJNe\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2020/02/phan-khu-the-sapphire-4-vinhomes-smart-city.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a S4.03 n\u1eb1m b\u00ean trong ph\u00e2n khu The Sapphire Parkville (The Sapphire 4). V\u1edbi l\u1ee3i th\u1ebf n\u1eb1m \u0111\u1ed1i di\u1ec7n c\u00f4ng vi\u00ean th\u1ec3 thao Sportia Park, c\u1ea3 kh\u00f4ng gian s\u1ed1ng l\u1eabn view c\u0103n h\u1ed9 S4.03 \u0111\u1ec1u \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 r\u1ea5t cao. T\u1ea1i khu \u0111\u00f4 th\u1ecb Vinhomes Smart City, S4.03 ch\u00ednh l\u00e0 t\u00f2a th\u00e1p \u201cSapphire\u201d \u0111\u1eb3ng c\u1ea5p & \u0111\u00e1ng s\u1ed1ng nh\u1ea5t."
+}

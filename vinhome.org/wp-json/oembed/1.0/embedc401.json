@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "Ti\u1ec3u khu Nguy\u1ec7t Qu\u1ebf Vinhomes Riverside The Harmony",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"1gLD3B88Os\"><a href=\"https://vinhome.org/tieu-khu-nguyet-que-vinhomes-riverside-the-harmony/\">Ti\u1ec3u khu Nguy\u1ec7t Qu\u1ebf Vinhomes Riverside The Harmony</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/tieu-khu-nguyet-que-vinhomes-riverside-the-harmony/embed/#?secret=1gLD3B88Os\" width=\"600\" height=\"338\" title=\"&#8220;Ti\u1ec3u khu Nguy\u1ec7t Qu\u1ebf Vinhomes Riverside The Harmony&#8221; &#8212; HALANDER\" data-secret=\"1gLD3B88Os\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2018/01/biet-thu-don-lap-nguyet-que-vinhomes-riverside-the-harmony.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "Ti\u1ec3u khu Nguy\u1ec7t Qu\u1ebf n\u1eb1m bao quanh k\u00eanh sinh th\u00e1i v\u00e0 h\u1ed3 \u0111i\u1ec1u h\u00f2a trung t\u00e2m, l\u00e0 ti\u1ec3u khu c\u00f3 quy l\u1edbn nh\u1ea5t t\u1ea1i Vinhomes Riverside The Harmony. S\u1edf h\u1eefu nh\u1eefng c\u0103n bi\u1ec7t th\u1ef1 li\u1ec1n k\u1ec1 mang ki\u1ebfn tr\u00fac Hy L\u1ea1p kinh \u0111i\u1ec3n v\u01b0\u1ee3t th\u1eddi gian, \u0111\u01b0\u1ee3c ph\u00e2n \u0111\u1ecbnh b\u1edfi nh\u1eefng h\u00e0ng r\u00e0o c\u00e2y xanh v\u00e0 hoa tr\u00e1i, ti\u1ec3u khu Nguy\u1ec7t Qu\u1ebf s\u1ebd mang \u0111\u1ebfn m\u1ed9t cu\u1ed9c s\u1ed1ng sinh th\u00e1i \u0111\u1eb3ng c\u1ea5p t\u1edbi nh\u1eefng ng\u01b0\u1eddi gi\u00e0u c\u00f3, th\u00e0nh \u0111\u1ea1t t\u1ea1i H\u00e0 N\u1ed9i."
+}

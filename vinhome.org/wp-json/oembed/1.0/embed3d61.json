@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a SA3 The Sakura Vinhomes Smart City T\u00e2y M\u1ed7",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"HvSQmiMobk\"><a href=\"https://vinhome.org/toa-sa3-vinhomes-smart-city/\">T\u00f2a SA3 Vinhomes Smart City</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-sa3-vinhomes-smart-city/embed/#?secret=HvSQmiMobk\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a SA3 Vinhomes Smart City&#8221; &#8212; HALANDER\" data-secret=\"HvSQmiMobk\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2021/05/vuon-thien-bach-hac-the-sakura-vinhomes-smart-city.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a SA3 n\u1eb1m b\u00ean trong ph\u00e2n khu The Sakura Vinhomes Smart City. T\u00f2a th\u00e1p thu h\u00fat b\u1edfi kh\u00f4ng gian c\u1ea3nh quan mang \u0111\u1eadm b\u1ea3n s\u1eafc Nh\u1eadt B\u1ea3n c\u00f9ng t\u1ea7m nh\u00ecn tho\u00e1ng \u0111\u00e3ng bao qu\u00e1t to\u00e0n c\u1ea3nh kh\u00f4ng gian n\u1ed9i khu The Sakura v\u00e0 c\u1ea3 kh\u00f4ng gian s\u00f4i \u0111\u1ed9ng c\u1ee7a c\u00e1c ph\u00e2n khu Imperia Smart City, The Tonkin, The Canopy, h\u1ee9a h\u1eb9n s\u1ebd l\u00e0 l\u1ef1a ch\u1ecdn l\u00fd t\u01b0\u1edfng cho m\u1ed9t cu\u1ed9c s\u1ed1ng ch\u1ea5t l\u01b0\u1ee3ng t\u1ea1i chung c\u01b0 Vinhome Smart City."
+}

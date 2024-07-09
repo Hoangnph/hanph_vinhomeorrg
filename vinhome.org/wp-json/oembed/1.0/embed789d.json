@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a S1.09 The Sapphire 1 Vinhomes Ocean Park Gia L\u00e2m",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"UuyZmYm8Yp\"><a href=\"https://vinhome.org/toa-s109-vinhomes-ocean-park/\">T\u00f2a S1.09 Vinhomes Ocean Park</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-s109-vinhomes-ocean-park/embed/#?secret=UuyZmYm8Yp\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a S1.09 Vinhomes Ocean Park&#8221; &#8212; HALANDER\" data-secret=\"UuyZmYm8Yp\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2022/09/be-boi-the-sapphire-1-vinhomes-ocean-park.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a S1.09 n\u1eb1m t\u1ea1i trung t\u00e2m ph\u00e2n khu The Sapphire 1 Vinhome Ocean Park. \u0110\u00e2y l\u00e0 1 trong 3 t\u00f2a c\u0103n h\u1ed9 \u0111\u1eb3ng c\u1ea5p & \u0111\u00e1ng s\u1ed1ng nh\u1ea5t t\u1ea1i The Sapphire 1, b\u1edfi n\u1eb1m v\u1eeba g\u1ea7n h\u1ed3 tr\u1ea3i c\u00e1t tr\u1eafng 24.5 ha, ch\u1ec9 m\u1ea5t ch\u01b0a \u0111\u1ea7y 5 ph\u00fat \u0111i b\u1ed9, v\u1eeba h\u1ed9i t\u1ee5 nhi\u1ec1u ti\u1ec7n \u00edch \u0111\u1ed9c \u0111\u00e1o: v\u01b0\u1eddn \u00e1nh s\u00e1ng, b\u1ec3 b\u01a1i ngo\u00e0i tr\u1eddi h\u00ecnh \u201cc\u00e1 voi xanh\u201d v\u00e0 v\u1eeba s\u1edf h\u1eefu t\u1ea7m nh\u00ecn to\u00e0n c\u1ea3nh c\u1ea3 h\u1ed3 Ng\u1ecdc Trai & khu bi\u1ec7t th\u1ef1 San H\u00f4."
+}

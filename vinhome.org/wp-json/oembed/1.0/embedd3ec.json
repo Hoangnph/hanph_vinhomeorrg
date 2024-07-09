@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "Ti\u1ec3u khu San H\u00f4 Vinhomes Ocean Park Gia L\u00e2m",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"KbE1kDs9Is\"><a href=\"https://vinhome.org/tieu-khu-san-ho-vinhomes-ocean-park/\">Ti\u1ec3u khu San H\u00f4 Vinhomes Ocean Park</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/tieu-khu-san-ho-vinhomes-ocean-park/embed/#?secret=KbE1kDs9Is\" width=\"600\" height=\"338\" title=\"&#8220;Ti\u1ec3u khu San H\u00f4 Vinhomes Ocean Park&#8221; &#8212; HALANDER\" data-secret=\"KbE1kDs9Is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2023/09/tieu-khu-san-ho-vinhomes-ocean-park.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "Ti\u1ec3u khu San H\u00f4 l\u00e0 ti\u1ec3u khu m\u1edf c\u00f3 quy m\u00f4 nh\u1ecf nh\u1ea5t t\u1ea1i khu \u0111\u00f4 th\u1ecb Vinhomes Ocean Park Gia L\u00e2m, n\u1eb1m \u0111\u1ed1i di\u1ec7n v\u1edbi tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc VinUni. S\u1edf h\u1eefu nh\u1eefng c\u0103n bi\u1ec7t th\u1ef1 \u0110\u00f4ng D\u01b0\u01a1ng di\u1ec7n t\u00edch nh\u1ecf g\u1ecdn, k\u1ebf c\u1eadn bi\u1ec3n h\u1ed3, ti\u1ec3u khu San H\u00f4 l\u00e0 s\u1ef1 l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o cho nh\u1eefng kh\u00e1ch h\u00e0ng cao c\u1ea5p mu\u1ed1n tr\u1ea3i nghi\u1ec7m tr\u1ecdn v\u1eb9n cu\u1ed9c s\u1ed1ng \u0111\u1ea1i d\u01b0\u01a1ng, nh\u01b0ng kh\u00f4ng c\u1ea7n thi\u1ebft ph\u1ea3i b\u1ecf ra s\u1ed1 ti\u1ec1n qu\u00e1 l\u1edbn t\u1edbi h\u00e0ng ch\u1ee5c t\u1ef7."
+}
