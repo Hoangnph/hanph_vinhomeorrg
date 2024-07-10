@@ -1,0 +1,112 @@
+{
+  "id": 370,
+  "count": 4,
+  "description": "",
+  "link": "https://vinhome.org/tag/kien-thuc/",
+  "name": "Ki\u1ebfn th\u1ee9c",
+  "slug": "kien-thuc",
+  "taxonomy": "post_tag",
+  "meta": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v22.8 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Ki\u1ebfn th\u1ee9c</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://vinhome.org/tag/kien-thuc/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Ki\u1ebfn th\u1ee9c\" />\n<meta property=\"og:url\" content=\"https://vinhome.org/tag/kien-thuc/\" />\n<meta property=\"og:site_name\" content=\"HALANDER\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://vinhome.org/tag/kien-thuc/\",\"url\":\"https://vinhome.org/tag/kien-thuc/\",\"name\":\"Ki\u1ebfn th\u1ee9c\",\"isPartOf\":{\"@id\":\"https://vinhome.org/#website\"},\"breadcrumb\":{\"@id\":\"https://vinhome.org/tag/kien-thuc/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://vinhome.org/tag/kien-thuc/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Trang ch\u1ee7\",\"item\":\"https://vinhome.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ki\u1ebfn th\u1ee9c\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://vinhome.org/#website\",\"url\":\"https://vinhome.org/\",\"name\":\"HALANDER\",\"description\":\"Ph\u00e2n ph\u1ed1i b\u1ea5t \u0111\u1ed9ng s\u1ea3n Vingroup\",\"publisher\":{\"@id\":\"https://vinhome.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://vinhome.org/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://vinhome.org/#organization\",\"name\":\"HALANDER\",\"url\":\"https://vinhome.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://vinhome.org/#/schema/logo/image/\",\"url\":\"https://vinhome.org/wp-content/uploads/2020/04/haland-logo.png\",\"contentUrl\":\"https://vinhome.org/wp-content/uploads/2020/04/haland-logo.png\",\"width\":250,\"height\":88,\"caption\":\"HALANDER\"},\"image\":{\"@id\":\"https://vinhome.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/vinhomes.vn\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Ki\u1ebfn th\u1ee9c",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://vinhome.org/tag/kien-thuc/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Ki\u1ebfn th\u1ee9c",
+    "og_url": "https://vinhome.org/tag/kien-thuc/",
+    "og_site_name": "HALANDER",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://vinhome.org/tag/kien-thuc/",
+          "url": "https://vinhome.org/tag/kien-thuc/",
+          "name": "Ki\u1ebfn th\u1ee9c",
+          "isPartOf": { "@id": "https://vinhome.org/#website" },
+          "breadcrumb": {
+            "@id": "https://vinhome.org/tag/kien-thuc/#breadcrumb"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://vinhome.org/tag/kien-thuc/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang ch\u1ee7",
+              "item": "https://vinhome.org/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ki\u1ebfn th\u1ee9c"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://vinhome.org/#website",
+          "url": "https://vinhome.org/",
+          "name": "HALANDER",
+          "description": "Ph\u00e2n ph\u1ed1i b\u1ea5t \u0111\u1ed9ng s\u1ea3n Vingroup",
+          "publisher": { "@id": "https://vinhome.org/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://vinhome.org/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://vinhome.org/#organization",
+          "name": "HALANDER",
+          "url": "https://vinhome.org/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://vinhome.org/#/schema/logo/image/",
+            "url": "https://vinhome.org/wp-content/uploads/2020/04/haland-logo.png",
+            "contentUrl": "https://vinhome.org/wp-content/uploads/2020/04/haland-logo.png",
+            "width": 250,
+            "height": 88,
+            "caption": "HALANDER"
+          },
+          "image": { "@id": "https://vinhome.org/#/schema/logo/image/" },
+          "sameAs": ["https://www.facebook.com/vinhomes.vn"]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://vinhome.org/wp-json/wp/v2/tags/370" }],
+    "collection": [{ "href": "https://vinhome.org/wp-json/wp/v2/tags" }],
+    "about": [
+      { "href": "https://vinhome.org/wp-json/wp/v2/taxonomies/post_tag" }
+    ],
+    "wp:post_type": [
+      { "href": "https://vinhome.org/wp-json/wp/v2/posts?tags=370" },
+      { "href": "https://vinhome.org/wp-json/wp/v2/portfolio?tags=370" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

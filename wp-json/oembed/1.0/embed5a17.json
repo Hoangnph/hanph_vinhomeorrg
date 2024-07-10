@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a S2.01 The Sapphire 2 Vinhomes Ocean Park",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"URDLnJXmCc\"><a href=\"https://vinhome.org/toa-s201-vinhomes-ocean-park/\">To\u00e0 S2.01 Vinhomes Ocean Park</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-s201-vinhomes-ocean-park/embed/#?secret=URDLnJXmCc\" width=\"600\" height=\"338\" title=\"&#8220;To\u00e0 S2.01 Vinhomes Ocean Park&#8221; &#8212; HALANDER\" data-secret=\"URDLnJXmCc\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2022/09/view-song-sinh-thai-tu-can-ho-s203-vinhomes-ocean-park.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a S2.01 n\u1eb1m d\u1ecdc theo s\u00f4ng sinh th\u00e1i ph\u00eda T\u00e2y Nam khu \u0111\u00f4 th\u1ecb Vin Ocean Park. \u0110\u00e2y l\u00e0 t\u00f2a th\u00e1p \u201c\u0111\u1ed9c\u201d nh\u1ea5t t\u1ea1i ph\u00e2n khu The Sapphire 2, b\u1edfi v\u1eeba s\u1edf h\u1eefu thi\u1ebft k\u1ebf h\u00ecnh ch\u1eef Z, m\u1eadt \u0111\u1ed9 ch\u1ec9 19 c\u0103n h\u1ed9/m\u1eb7t s\u00e0n, v\u1eeba \u0111\u01b0\u1ee3c b\u00e0n giao theo ti\u00eau chu\u1ea9n c\u01a1 b\u1ea3n: c\u00f3 \u0111\u1ea7y \u0111\u1ee7 \u0111i\u1ec1u h\u00f2a, t\u1ee7 b\u1ebfp, \u0111\u1eb7c bi\u1ec7t 100% c\u0103n h\u1ed9 t\u1ea1i \u0111\u00e2y \u0111\u1ec1u c\u00f3 th\u1ec3 view \u0111\u01b0\u1ee3c s\u00f4ng sinh th\u00e1i."
+}

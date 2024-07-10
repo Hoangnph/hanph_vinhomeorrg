@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a S2.18 The Sapphire 2 Vinhomes Ocean Park Gia L\u00e2m",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"zYTRNs2eTc\"><a href=\"https://vinhome.org/toa-s218-vinhomes-ocean-park/\">T\u00f2a S2.18 Vinhomes Ocean Park</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-s218-vinhomes-ocean-park/embed/#?secret=zYTRNs2eTc\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a S2.18 Vinhomes Ocean Park&#8221; &#8212; HALANDER\" data-secret=\"zYTRNs2eTc\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2022/09/view-ho-ngoc-trai-tu-can-ho-s212-vinhomes-ocean-park.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a S2.18 t\u1ecda l\u1ea1c t\u1ea1i c\u1eeda ng\u00f5 ph\u00eda T\u00e2y khu \u0111\u00f4 th\u1ecb Vinhomes Ocean Park H\u00e0 N\u1ed9i. T\u00f2a th\u00e1p s\u1edf h\u1eefu r\u1ea5t nhi\u1ec1u l\u1ee3i th\u1ebf: v\u1eeba d\u1ec5 d\u00e0ng k\u1ebft n\u1ed1i ngo\u1ea1i khu + n\u1ed9i khu; v\u1eeba s\u1edf h\u1eefu kh\u1ea3 n\u0103ng khai th\u00e1c cho thu\u00ea l\u1edbn, do n\u1eb1m g\u1ea7n \u0111\u1ea1i h\u1ecdc VinUni & th\u00e1p Vinfast 45 t\u1ea7ng; v\u1eeba view \u0111\u01b0\u1ee3c to\u00e0n c\u1ea3nh khu\u00f4n vi\u00ean 23 ha c\u1ee7a \u0111\u1ea1i h\u1ecdc VinUni, h\u1ed3 \u0111i\u1ec1u h\u00f2a trung t\u00e2m 24.5 ha v\u00e0 c\u1ea3 bi\u1ec3n h\u1ed3 n\u01b0\u1edbc m\u1eb7n 6.1 ha."
+}

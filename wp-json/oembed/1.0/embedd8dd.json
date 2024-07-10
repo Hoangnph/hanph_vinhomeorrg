@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "VinBus - Xe bus \u0111i\u1ec7n th\u00f4ng minh c\u1ee7a VinFast",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"NpWhExXnW5\"><a href=\"https://vinhome.org/vinbus/\">VinBus &#8211; Xe bus \u0111i\u1ec7n th\u00f4ng minh c\u1ee7a VinFast</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/vinbus/embed/#?secret=NpWhExXnW5\" width=\"600\" height=\"338\" title=\"&#8220;VinBus &#8211; Xe bus \u0111i\u1ec7n th\u00f4ng minh c\u1ee7a VinFast&#8221; &#8212; HALANDER\" data-secret=\"NpWhExXnW5\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2023/07/vinbus-ocean-park.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "Th\u00e1ng 5/2019, t\u1eadp \u0111o\u00e0n Vingroup \u0111\u00e3 c\u00f4ng b\u1ed1 th\u00e0nh l\u1eadp c\u00f4ng ty TNHH D\u1ecbch V\u1ee5 V\u1eadn T\u1ea3i VinBus v\u1edbi v\u1ed1n \u0111i\u1ec1u l\u1ec7 1.000 t\u1ef7 VND, ch\u00ednh th\u1ee9c tham gia v\u00e0o l\u0129nh v\u1ef1c v\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch. V\u1edbi t\u00f4n ch\u1ec9 \"Ph\u1ee5ng s\u1ef1 t\u1eeb tr\u00e1i tim\", xe bus \u0111i\u1ec7n th\u00f4ng minh Vinbus c\u1ee7a Vinfast h\u1ee9a h\u1eb9n s\u1ebd mang \u0111\u1ebfn nh\u1eefng tr\u1ea3i nghi\u1ec7m di chuy\u1ec3n tuy\u1ec7t v\u1eddi nh\u1ea5t t\u1edbi ng\u01b0\u1eddi d\u00e2n Vi\u1ec7t Nam."
+}

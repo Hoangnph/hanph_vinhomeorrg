@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a T4 Vinhomes Times City Minh Khai",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"nbpN2PTp9u\"><a href=\"https://vinhome.org/toa-t4-vinhomes-times-city/\">T\u00f2a T4 Vinhomes Times City</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-t4-vinhomes-times-city/embed/#?secret=nbpN2PTp9u\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a T4 Vinhomes Times City&#8221; &#8212; HALANDER\" data-secret=\"nbpN2PTp9u\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2019/06/khong-gian-xanh-vinhomes-times-city.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "T\u00f2a T4 n\u1eb1m tr\u00ean tuy\u1ebfn \u0111\u01b0\u1eddng n\u1ed9i b\u1ed9 s\u1ed1 4, \u0111\u1ed1i di\u1ec7n qu\u1ea3ng tr\u01b0\u1eddng Vincom Mega Mall Times City. \u0110\u00e2y l\u00e0 m\u1ed9t trong nh\u1eefng t\u00f2a th\u00e1p \u0111\u1eb9p nh\u1ea5t t\u1ea1i chung c\u01b0 Times City giai \u0111o\u1ea1n 1, n\u1ed5i b\u1eadt v\u1edbi kh\u00f4ng gian s\u1ed1ng s\u00f4i \u0111\u1ed9ng c\u00f9ng t\u1ea7m nh\u00ecn to\u00e0n c\u1ea3nh qu\u1ea3ng tr\u01b0\u1eddng trung t\u00e2m, h\u1ed3 \u0111i\u1ec1u h\u00f2a, nh\u1ea1c n\u01b0\u1edbc\u2026"
+}

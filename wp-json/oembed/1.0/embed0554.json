@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "provider_name": "HALANDER",
+  "provider_url": "https://vinhome.org",
+  "author_name": "Khuc Anh",
+  "author_url": "https://vinhome.org/author/khucanh/",
+  "title": "T\u00f2a West 3 Vinhomes West Point \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c",
+  "type": "rich",
+  "width": 600,
+  "height": 338,
+  "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"cgr3slkPeY\"><a href=\"https://vinhome.org/toa-west-3-vinhomes-west-point/\">T\u00f2a West 3 Vinhomes West Point</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://vinhome.org/toa-west-3-vinhomes-west-point/embed/#?secret=cgr3slkPeY\" width=\"600\" height=\"338\" title=\"&#8220;T\u00f2a West 3 Vinhomes West Point&#8221; &#8212; HALANDER\" data-secret=\"cgr3slkPeY\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\n",
+  "thumbnail_url": "https://vinhome.org/wp-content/uploads/2018/12/view-khach-san-marriott-tu-can-ho-vinhomes-west-point.jpg",
+  "thumbnail_width": 800,
+  "thumbnail_height": 450,
+  "description": "West 3 l\u00e0 t\u00f2a c\u0103n h\u1ed9 \u0111\u1ea7u ti\u00ean \u0111\u01b0\u1ee3c ra m\u1eaft t\u1ea1i d\u1ef1 \u00e1n Vinhomes West Point. \u0110\u00e2y l\u00e0 t\u00f2a c\u0103n h\u1ed9 s\u1edf h\u1eefu kh\u00f4ng gian y\u00ean t\u0129nh nh\u1ea5t t\u1ea1i Vinhomes West Point \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c, b\u1edfi v\u1eeba c\u00e1ch bi\u1ec7t \u0111\u01b0\u1eddng Ph\u1ea1m H\u00f9ng \u1ed3n \u00e0o, v\u1eeba kh\u00f4ng c\u00f3 v\u0103n ph\u00f2ng & officetel, r\u1ea5t l\u00fd t\u01b0\u1edfng v\u1edbi nh\u1eefng kh\u00e1ch h\u00e0ng y\u00eau th\u00edch cu\u1ed9c s\u1ed1ng ri\u00eang t\u01b0, y\u00ean t\u0129nh."
+}
